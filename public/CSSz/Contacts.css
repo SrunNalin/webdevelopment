@@ -1,0 +1,9 @@
+.form-contact
+{
+    border: solid gainsboro 1px;
+    width: 50%;
+    margin: 100px auto;
+    background: gainsboro;
+    border-radius: 5px;
+    padding: 50px;
+}
