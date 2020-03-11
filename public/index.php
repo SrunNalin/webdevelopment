@@ -6,6 +6,13 @@
  * @package  Laravel
  * @author   Taylor Otwell <taylor@laravel.com>
  */
+var_dump("Hi");
+var_dump("Hi");
+var_dump("Hi");
+
+var_dump("Hi");
+var_dump("Hi");
+var_dump("Hi");
 
 /*
     some code here
