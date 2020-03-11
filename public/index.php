@@ -7,6 +7,16 @@
  * @author   Taylor Otwell <taylor@laravel.com>
  */
 
+/*
+    some code here
+    somethings more 
+*/
+
+var_dump("hello world ");
+
+
+
+
 define('LARAVEL_START', microtime(true));
 
 /*
