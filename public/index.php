@@ -6,6 +6,13 @@
  * @package  Laravel
  * @author   Taylor Otwell <taylor@laravel.com>
  */
+var_dump("Hi");
+var_dump("Hi");
+var_dump("Hi");
+
+var_dump("Hi");
+var_dump("Hi");
+var_dump("Hi");
 
 define('LARAVEL_START', microtime(true));
 
