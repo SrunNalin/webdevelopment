@@ -7,56 +7,6 @@
  * @author   Taylor Otwell <taylor@laravel.com>
  */
 
-var_dump("hello");
-var_dump("hello");
-print_r("cs");
-var_dump("hello");
-print_r("cs");
-var_dump("hello");
-print_r("cs");
-var_dump("hello");
-print_r("cs");
-var_dump("hello");
-print_r("cs");
-var_dump("hello");
-print_r("cs");
-var_dump("hello");
-print_r("cs");
-
-var_dump("Hi");
-var_dump("Hi");
-var_dump("Hi");
-
-var_dump("Hi");
-var_dump("Hi");
-var_dump("Hi");
-
-/*
-    some code here
-    somethings more 
-*/
-
-var_dump("hello world ");
-var_dump("Hi");
-var_dump("Hi");
-
-var_dump("Hi");
-var_dump("Hi");
-var_dump("Hi");
-var_dump("Hi");
-var_dump("Hi");
-var_dump("Hi");
-
-/*
-    some code here
-    somethings more 
-*/
-
-var_dump("hello world ");
-var_dump("Hi");
-var_dump("Hi");
-
-
 
 
 define('LARAVEL_START', microtime(true));
